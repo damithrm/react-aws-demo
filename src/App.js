@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h1>Hello World From AWS EC2 Test CI/CD 2</h1>
+      <h1>Hello World From AWS EC2 Test CI/CD 2 with Pasan</h1>
     </div>
   );
 }
